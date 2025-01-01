@@ -5,3 +5,4 @@ dist/
 coverage/
 goldstackLocal/
 .yarn/*
+.DS_Store
