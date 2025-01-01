@@ -1,0 +1,6 @@
+.next/
+webDist/
+out/
+cache/
+lambda.zip
+.env.production

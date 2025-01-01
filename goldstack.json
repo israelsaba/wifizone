@@ -1,0 +1,8 @@
+{
+  "$schema": "./schemas/package.schema.json",
+  "configuration": {},
+  "deployments": [],
+  "name": "project-nextjsbootstrap1",
+  "template": "yarn-pnp-monorepo",
+  "templateVersion": "0.1.0"
+}
