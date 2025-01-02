@@ -6,3 +6,5 @@ coverage/
 goldstackLocal/
 .yarn/*
 .DS_Store
+reference-nextjs-bootstrap-boilerplate/**/*
+
